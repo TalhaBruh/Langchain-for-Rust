@@ -1,4 +1,4 @@
-# 🦜️🔗LangChain Rust
+# 🔗LangChain Rust
 
 [![Latest Version]][crates.io]
 
@@ -7,7 +7,6 @@
 
 ⚡ Building applications with LLMs through composability, with Rust! ⚡
 
-[![Discord](https://dcbadge.vercel.app/api/server/JJFcTFbanu?style=for-the-badge)](https://discord.gg/JJFcTFbanu)
 [![Docs: Tutorial](https://img.shields.io/badge/docs-tutorial-success?style=for-the-badge&logo=appveyor)](https://langchain-rust.sellie.tech/get-started/quickstart)
 
 ## 🤔 What is this?
